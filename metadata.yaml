@@ -1,0 +1,40 @@
+_repo: My-Lady-NicotineA-Study-in-Smoke_18934
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Prendergast, Maurice Brazil
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '8348'
+    url: http://www.gutenberg.org/2009/agents/8348
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Prendergast
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barrie, J. M. (James Matthew)
+    aliases:
+    - Barrie, James Matthew
+    - Barrie, J.M.
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+description: ''
+gutenberg_issued: '2006-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wit and humor, Pictorial'
+- !lcsh 'Tobacco -- Anecdotes'
+- !lcsh 'Smoking -- Anecdotes'
+- !lcc 'PR'
+title: 'My Lady Nicotine: A Study in Smoke'
+url: http://www.gutenberg.org/ebooks/18934
